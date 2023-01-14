@@ -1,6 +1,5 @@
 import React from 'react'
 import { Col } from 'react-bootstrap'
-import projImg1 from '../assets/img/project-img1.png'
 function ProjectCard({titel,description,imgUrl}) {
   return (
    <Col sm={6} md={4}>

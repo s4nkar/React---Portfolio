@@ -35,7 +35,8 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="#home">
             
-            <img src={logo} alt="Logo" />
+            {/* <img src={logo} alt="Logo" /> */}
+            {/* <h1>Sankar</h1> */}
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" >
 

@@ -75,6 +75,14 @@ function Skills() {
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
+                                <h5>Android</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
+                                <h5>Php</h5>
+                            </div>
+                            <div className="item">
+                                <img src={meter2} alt="Image" />
                                 <h5>Node Js</h5>
                             </div>
                         </Carousel>
