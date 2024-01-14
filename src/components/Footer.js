@@ -18,7 +18,7 @@ function Footer() {
           </Col>
           <Col sm={6} className="text-center text-sm-end">
               <div className="social-icon">
-              <a href="https://www.linkedin.com/in/sankar-dev-s-161002245/"><img src={navIcon1} alt="" /></a>
+              <a href="https://www.linkedin.com/in/sankar-dev-s-06a9772a1/"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/profile.php?id=100081139895525"><img  src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/s4nkar.__/"><img src={navIcon3} alt="" /></a>
               </div>
